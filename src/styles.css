@@ -1,0 +1,10 @@
+.App {
+  font-family: papyrus;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+input {
+  width: 80%;
+  padding: 1rem;
+}
